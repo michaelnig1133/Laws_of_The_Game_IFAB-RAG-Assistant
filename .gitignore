@@ -22,3 +22,5 @@ Thumbs.db
 
 # Vector database (if you don’t want it in Git)
 vector_db/
+
+rule_books/
